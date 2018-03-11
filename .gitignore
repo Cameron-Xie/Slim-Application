@@ -1,0 +1,8 @@
+/.idea
+/vendor
+*.env
+tests/_output/*
+!tests/_output/.gitkeep
+tests/_data/*
+!tests/_data/.gitkeep
+.DS_Store

@@ -1,4 +1,6 @@
-# Slim Application
+# Slim Application 
+
+[![Build Status](https://travis-ci.org/Cameron-Xie/Slim-Application.svg?branch=master)](https://travis-ci.org/Cameron-Xie/Slim-Application)
 
 A PHP Application (Starter) build with Slim Framework.
 
